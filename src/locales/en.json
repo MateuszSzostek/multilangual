@@ -1,0 +1,15 @@
+{
+    "exampleSite": "Example Site",
+    "home": "Home",
+    "blog": "Blog",
+    "about": "About",
+    "contact": "Contact",
+    "contactInfo": "Lets get in touch and talk about your next project.",
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "comment": "Comment",
+    "sendMessage": "Send Message",
+    "read": "Read",
+    "projects": "Projects"
+}
